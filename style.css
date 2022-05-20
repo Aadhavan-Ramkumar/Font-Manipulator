@@ -2,12 +2,12 @@
 	font-size: 23px;
 	width: 100%;
 	margin: 0px;
-	box-shadow: 5px 5px 5px gray;
+	box-shadow: 5px 5px 5px gray
 }
 
 .Note {
 	font-size: 15px;
-	color: black;
+	color: black
 }
 
 .CopyrightFooter {
@@ -17,5 +17,10 @@
 	width: 100%;
 	background-color: gray;
 	line-height: 3;
-	text-align: center;
+	text-align: center
+}
+
+video, canvas {
+	border: solid 10px gray;
+	border-radius: 10px
 }
